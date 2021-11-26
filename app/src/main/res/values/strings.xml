@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">bookCollection_</string>
+
+    <string name="app_tiltle">Book Collection</string>
+    <string name="b_home">Home</string>
+    <string name="b_myCollection">My collection</string>
+    <string name="b_add">Add</string>
+
+    <!-- page home-->
+    <string name="home_title">Home</string>
+    <string name="home_book_title">Title</string>
+    <string name="home_book_year">Year</string>
+
+    <!-- page My collection-->
+    <string name="mCollection_title">My collection</string>
+    <string name="mCollection_book_title">@string/home_book_title</string>
+    <string name="mCollection_book_year">@string/home_book_year</string>
+
+    <!-- page Add book-->
+    <string name="addBook_title">Add book</string>
+    <string name="addBook_bLoadImage">Load Image</string>
+    <string name="addBook_book_title">@string/home_book_title</string>
+    <string name="addBook_book_description">Description</string>
+    <string name="addBook_book_year">@string/home_book_year</string>
+    <string name="addBook_bConfirm">Confirm</string>
+
+    <!-- page book detail-->
+    <string name="bookDetail_book_title">@string/home_book_title</string>
+    <string name="bookDetail_book_description">@string/addBook_book_description</string>
+    <string name="bookDetail_book_year">@string/home_book_year</string>
+
+</resources>

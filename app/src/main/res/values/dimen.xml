@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--marge -->
+    <dimen name="marge">20sp</dimen>
+
+    <!--Taille de l'image -->
+    <dimen name="image_size">150sp</dimen>
+
+</resources>

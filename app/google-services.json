@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39867516943",
+    "project_id": "bookcollection-1a015",
+    "storage_bucket": "bookcollection-1a015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39867516943:android:d4d634fe0dd59b8717fb7a",
+        "android_client_info": {
+          "package_name": "dz.ubma.bookcollection_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39867516943-ji35tjbm1lkav7abp2skn0oqarv322qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJVCx7Sxwan1Qh35T3c9imOEseqmWQDFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39867516943-ji35tjbm1lkav7abp2skn0oqarv322qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
